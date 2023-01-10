@@ -7,7 +7,15 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
+    body {
+  font-family: Arial, sans-serif;
+}
     <header>
+      header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
       <h1>Bienvenue sur mon site étudiant</h1>
     </header>
     <nav>
@@ -47,15 +55,9 @@
 </html>
 
 
-body {
-  font-family: Arial, sans-serif;
-}
 
-header {
-  background-color: #f2f2f2;
-  padding: 20px;
-  text-align: center;
-}
+
+
 
 nav {
   background-color: #f2f2f2;

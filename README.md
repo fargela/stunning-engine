@@ -48,6 +48,8 @@
   </body>
 </html>
 
+<!DOCTYPE CSS>
+
 body {
   font-family: Arial, sans-serif;
 }
